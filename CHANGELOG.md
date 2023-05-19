@@ -1,5 +1,19 @@
 # Changelog
 
+### [1.31.2](https://www.github.com/snakemake/snakemake-wrappers/compare/v1.31.1...v1.31.2) (2023-05-19)
+
+
+### Performance Improvements
+
+* autobump bio/deeptools/computematrix ([#1373](https://www.github.com/snakemake/snakemake-wrappers/issues/1373)) ([6f3e9b5](https://www.github.com/snakemake/snakemake-wrappers/commit/6f3e9b5eedd5019ea36e840e7cc7101dbdc77639))
+* autobump bio/deseq2/deseqdataset ([#1369](https://www.github.com/snakemake/snakemake-wrappers/issues/1369)) ([8ca67e8](https://www.github.com/snakemake/snakemake-wrappers/commit/8ca67e82ebb92e18dce5baf153f72b3e77bad7c6))
+* autobump bio/fastq_screen ([#1375](https://www.github.com/snakemake/snakemake-wrappers/issues/1375)) ([abb82c4](https://www.github.com/snakemake/snakemake-wrappers/commit/abb82c4a98be3c71e17de50670d19579f63901ec))
+* autobump bio/gatk/selectvariants ([#1376](https://www.github.com/snakemake/snakemake-wrappers/issues/1376)) ([e2962a1](https://www.github.com/snakemake/snakemake-wrappers/commit/e2962a14ccff2e339f5d137c729b1d5607b9e666))
+* autobump bio/gatk/variantrecalibrator ([#1374](https://www.github.com/snakemake/snakemake-wrappers/issues/1374)) ([341ccaa](https://www.github.com/snakemake/snakemake-wrappers/commit/341ccaac9e9343774c57477e8d6fede514b7c8eb))
+* autobump bio/gatk3/indelrealigner ([#1371](https://www.github.com/snakemake/snakemake-wrappers/issues/1371)) ([6ef06a1](https://www.github.com/snakemake/snakemake-wrappers/commit/6ef06a1e8fa5cad5a69906061d3827c656e6843b))
+* autobump bio/hisat2/index ([#1370](https://www.github.com/snakemake/snakemake-wrappers/issues/1370)) ([b5e37ab](https://www.github.com/snakemake/snakemake-wrappers/commit/b5e37ab3ed8bd70ed969a444274a183fa9ff36f8))
+* autobump bio/vg/prune ([#1377](https://www.github.com/snakemake/snakemake-wrappers/issues/1377)) ([7dc7890](https://www.github.com/snakemake/snakemake-wrappers/commit/7dc7890769257d161731b2004401db4b6760bae6))
+
 ### [1.31.1](https://www.github.com/snakemake/snakemake-wrappers/compare/v1.31.0...v1.31.1) (2023-05-17)
 
 
